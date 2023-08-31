@@ -19,11 +19,15 @@ The Result of Person Detection is on Image is:
 
 
 Before:
+
 <img width="1001" alt="Screenshot 2023-08-31 at 10 41 12 PM" src="https://github.com/abhirambussa/SE20UARI036_YOLO/assets/121299178/4346574a-d418-41d8-ae84-4bf082e03d11">
 
 
 
+
+
 After:
+
 <img width="1000" alt="Screenshot 2023-08-31 at 10 41 40 PM" src="https://github.com/abhirambussa/SE20UARI036_YOLO/assets/121299178/7024fb9f-16d0-4d63-9435-ec6906d728c6">
 
 
