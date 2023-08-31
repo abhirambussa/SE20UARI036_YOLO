@@ -1,4 +1,4 @@
-# SE20UARI071_YOLO
+# SE20UARI036_YOLO
 ## Person Detection Using YOLOv4
 This repository contains code to detect people in images and videos using the YOLOv4 object detection model.
 
@@ -19,11 +19,12 @@ The Result of Person Detection is on Image is:
 
 
 Before:
+<img width="1001" alt="Screenshot 2023-08-31 at 10 41 12 PM" src="https://github.com/abhirambussa/SE20UARI036_YOLO/assets/121299178/4346574a-d418-41d8-ae84-4bf082e03d11">
 
-![photo-1616753677823-bc8270e35ec1](https://github.com/revanthjavvaji/SE20UARI071_YOLO/assets/114976742/f106873a-48dc-430c-ac95-f8728452f7b7)
 
 
 After:
-![downloadd](https://github.com/revanthjavvaji/SE20UARI071_YOLO/assets/114976742/74ae82ad-027c-4609-b70a-ce8086ac4a1a)
+<img width="1000" alt="Screenshot 2023-08-31 at 10 41 40 PM" src="https://github.com/abhirambussa/SE20UARI036_YOLO/assets/121299178/7024fb9f-16d0-4d63-9435-ec6906d728c6">
+
 
 
